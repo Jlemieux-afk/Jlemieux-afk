@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://e7.pngegg.com/pngimages/524/809/png-clipart-computer-icons-resume-linkedin-logo-job-hunting-others-blue-angle.png"/>][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUun2LuQfmkC4SatXLMjMUIks23A_XxPCgtFnNYWJ0NQ&s=10"/>][linkedin]
 
 
 
