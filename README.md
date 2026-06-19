@@ -3,9 +3,10 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up AD Infristructure in Azure using Virtual Machines](https://github.com/Jlemieux-afk/cloud-infristructure)
+
   - [Configuring Virtual Active Directory within Azure VMs](https://github.com/Jlemieux-afk/configure-ad)
-  - [Adding MAF to Virtual Machines](https://github.com/Jlemieux-afk/azure-network-protocols)
+  - [Adding MAF to Virtual Machines](https://github.com/Jlemieux-afk/Virtual-Machine-MAF)
+
 
 <h2>Connect with me:</h2>
 
