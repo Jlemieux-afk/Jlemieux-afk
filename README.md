@@ -5,8 +5,6 @@
 - <b>Microsoft Azure</b>
 
   - [Configuring Virtual Active Directory within Azure VMs](https://github.com/Jlemieux-afk/configure-ad)
-  - [Adding MAF to Virtual Machines](https://github.com/Jlemieux-afk/Virtual-Machine-MAF)
-
 
 <h2>Connect with me:</h2>
 
