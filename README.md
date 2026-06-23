@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+<b>Microsoft Azure</b>
 
   - [Configuring Virtual Active Directory within Azure VMs](https://github.com/Jlemieux-afk/configure-ad)
 
