@@ -6,6 +6,10 @@
 
   - [Configuring Virtual Active Directory within Azure VMs](https://github.com/Jlemieux-afk/configure-ad)
 
+-<b>Hardware</b>
+
+  - [Newly Installed Hardrive/SSD not Showing in Windows](https://github.com/Jlemieux-afk/configure-ad)
+  - 
 <h2>Connect with me:</h2>
 
 
