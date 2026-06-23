@@ -8,7 +8,7 @@
 
 <b>Hardware</b>
 
-  - [Newly Installed Hardrive/SSD not Showing in Windows](https://github.com/Jlemieux-afk/)
+  - [Newly Installed Hardrive/SSD not Showing in Windows](https://github.com/Jlemieux-afk/No-HardDrive-Showing)
 <h2>Connect with me:</h2>
 
 
